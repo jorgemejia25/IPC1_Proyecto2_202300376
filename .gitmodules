@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jorgemejia25/IPC1_Proyecto2_202300376/backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jorgemejia25/IPC1_Proyecto2_202300376/frontend
